@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Launa Bucher-Austin
+ * This program allows the user to square, cube, or add the power to any number of their choice.
+ * March 12 2020
  */
 
 package cubesandsquaresandvalues;
